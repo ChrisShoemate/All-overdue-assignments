@@ -1,0 +1,5 @@
+1. Helps someone understand the page better
+2. Others can work on your projects
+and easily understand how the HTML was understand
+3. HTML pages are ugly, other programs are needed
+to dress up the page more

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imdb>
+
+    <genre category="action">
+
+        <Movie>The Fast and The Furious</Movie>
+
+            <title lang="en">The Fast and The Furious</title>
+
+                <director>Rob Cohen</director>
+
+                <year>2001</year>
+
+                <cast> Vin Diesel, Paul Walker, Michelle Rodriguez </cast>
+
+            <title lang="en">2 Fast 2 Furious</title>
+
+                <director>John Singleton</director>
+
+                <year>2003</year>
+
+                <cast>Paul Walker, Tyrese Gibson, Cole Hauser</cast>
+
+            <title lang="en">The Fast and The Furious Tokyo Drift</title>
+
+                <director>Justin Lin</director>
+
+                <year>2006</year>
+
+                <cast> Lucas Black, Zachery Ty Bryan, Shad Moss</cast>
+
+    </genre>
+
+</imdb>
+    

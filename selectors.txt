@@ -1,0 +1,2 @@
+1. ID selectors are too specific
+2. class, attribute and pseudo
